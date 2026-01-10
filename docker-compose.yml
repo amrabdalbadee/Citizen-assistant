@@ -1,0 +1,74 @@
+# Citizen Support Assistant - Docker Compose
+# 100% FREE - Uses Ollama (local LLM)
+
+version: "3.9"
+
+services:
+  # ==========================================================================
+  # Streamlit Frontend (Recommended)
+  # ==========================================================================
+  streamlit:
+    build:
+      context: .
+      dockerfile: Dockerfile.streamlit
+    container_name: citizen-assistant-ui
+    ports:
+      - "8501:8501"
+    environment:
+      - OLLAMA_BASE_URL=http://host.docker.internal:11434
+      - LLM_MODEL=${LLM_MODEL:-llama3.2}
+      - TTS_ENABLED=${TTS_ENABLED:-true}
+    volumes:
+      # Persist data
+      - streamlit_data:/app/data
+      - chroma_data:/app/data/chroma
+      # Custom knowledge documents
+      - ./knowledge:/app/knowledge:ro
+      # Model cache
+      - whisper_models:/app/models/whisper
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    restart: unless-stopped
+
+  # ==========================================================================
+  # FastAPI Backend (Optional - for API access)
+  # ==========================================================================
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: citizen-assistant-api
+    ports:
+      - "8000:8000"
+    environment:
+      - LLM_PROVIDER=${LLM_PROVIDER:-ollama}
+      - LLM_MODEL=${LLM_MODEL:-llama3.2}
+      - OLLAMA_BASE_URL=http://host.docker.internal:11434
+      - STT_MODEL=${STT_MODEL:-base}
+      - STT_DEVICE=${STT_DEVICE:-cpu}
+      - STT_COMPUTE_TYPE=${STT_COMPUTE_TYPE:-int8}
+      - TTS_ENABLED=${TTS_ENABLED:-true}
+      - TTS_VOICE=${TTS_VOICE:-en-US-AriaNeural}
+      - CHUNK_SIZE=${CHUNK_SIZE:-500}
+      - CHUNK_OVERLAP=${CHUNK_OVERLAP:-50}
+      - RETRIEVAL_K=${RETRIEVAL_K:-4}
+      - SESSION_TIMEOUT_MINUTES=${SESSION_TIMEOUT_MINUTES:-30}
+      - MAX_HISTORY_LENGTH=${MAX_HISTORY_LENGTH:-10}
+      - DEBUG=${DEBUG:-false}
+    volumes:
+      - chroma_data:/app/data/chroma
+      - ./knowledge:/app/knowledge:ro
+      - whisper_models:/app/models/whisper
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    restart: unless-stopped
+    profiles:
+      - api  # Only start with: docker compose --profile api up
+
+volumes:
+  streamlit_data:
+    name: citizen-assistant-streamlit
+  chroma_data:
+    name: citizen-assistant-chroma
+  whisper_models:
+    name: citizen-assistant-whisper

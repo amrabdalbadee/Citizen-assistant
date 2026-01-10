@@ -1,0 +1,142 @@
+# Passport Application Requirements - Government Services Guide
+
+## Overview
+This document outlines the complete requirements and procedures for applying for a national passport through our government services portal. Citizens can apply for new passports, renew existing passports, or replace lost/damaged passports.
+
+## Types of Passport Applications
+
+### 1. New Passport Application (First-Time Applicants)
+For citizens who have never held a national passport before.
+
+**Required Documents:**
+- Original birth certificate
+- National ID card (original and photocopy)
+- Four recent passport-sized photographs (white background, 4.5cm x 3.5cm)
+- Proof of citizenship (citizenship certificate or naturalization document)
+- Completed Application Form PA-101
+
+**Processing Time:** 15-20 business days
+**Fee:** $85 for adults (ages 16+), $55 for minors (under 16)
+
+### 2. Passport Renewal
+For citizens with an existing passport that is expired or expiring within 6 months.
+
+**Required Documents:**
+- Current passport (original)
+- Two recent passport-sized photographs
+- Completed Application Form PA-102
+- Proof of address (utility bill or bank statement, less than 3 months old)
+
+**Processing Time:** 10-15 business days
+**Fee:** $70 for adults, $45 for minors
+
+**Note:** If your passport expired more than 5 years ago, you must apply as a new applicant.
+
+### 3. Lost or Damaged Passport Replacement
+
+**Required Documents:**
+- Police report (for lost passports)
+- Damaged passport (if applicable)
+- National ID card (original and photocopy)
+- Four recent passport-sized photographs
+- Completed Application Form PA-103
+- Affidavit of Loss (Form PA-103A)
+
+**Processing Time:** 20-25 business days
+**Fee:** $110 for adults, $75 for minors (includes replacement penalty)
+
+## Application Process
+
+### Step 1: Gather Documents
+Collect all required documents based on your application type. Ensure photographs meet specifications.
+
+### Step 2: Complete Application Form
+- Download the appropriate form from our website: www.gov.services/passport
+- Fill in all fields accurately using black ink
+- Do not leave any fields blank (write "N/A" if not applicable)
+
+### Step 3: Book an Appointment
+- Visit www.gov.services/appointments
+- Select "Passport Services"
+- Choose your preferred date, time, and location
+- You will receive a confirmation email with your appointment number
+
+### Step 4: Submit Application
+- Arrive at the passport office 15 minutes before your appointment
+- Bring all original documents and photocopies
+- Biometric data (fingerprints and photo) will be collected on-site
+- Pay the applicable fee (cash, card, or mobile payment accepted)
+
+### Step 5: Track Your Application
+- Use your receipt number to track status at www.gov.services/track
+- You will receive SMS notifications at each processing stage
+- Collect your passport from the designated office or opt for home delivery ($15 additional fee)
+
+## Passport Office Locations
+
+### Main Office - Capital City
+Address: 123 Government Plaza, Capital City
+Hours: Monday-Friday, 8:00 AM - 4:00 PM
+Phone: 1-800-PASSPORT (1-800-727-7767)
+
+### Regional Office - North District
+Address: 456 Citizens Center, North District
+Hours: Monday-Friday, 9:00 AM - 3:00 PM
+Phone: 1-800-727-7768
+
+### Regional Office - South District  
+Address: 789 Public Services Building, South District
+Hours: Monday-Friday, 9:00 AM - 3:00 PM
+Phone: 1-800-727-7769
+
+## Expedited Services
+
+For urgent travel needs, expedited processing is available:
+
+**Express Processing (5-7 business days):** Additional $50 fee
+**Urgent Processing (2-3 business days):** Additional $100 fee
+
+**Eligibility for Expedited Services:**
+- Proof of travel (flight booking, visa appointment)
+- Medical emergency documentation
+- Death of immediate family member abroad
+
+## Photograph Specifications
+
+- Size: 4.5cm x 3.5cm (1.77in x 1.38in)
+- Background: Plain white or off-white
+- Expression: Neutral, mouth closed
+- Eyes: Open and clearly visible
+- No glasses, hats, or head coverings (except for religious reasons)
+- Taken within the last 6 months
+- Professional quality, no selfies
+
+## Frequently Asked Questions
+
+**Q: Can I apply for a passport on behalf of someone else?**
+A: No, all applicants must appear in person for biometric collection. Exceptions are made for minors (accompanied by both parents or legal guardian) and those with certified medical conditions.
+
+**Q: How long is a passport valid?**
+A: Adult passports (16+) are valid for 10 years. Minor passports (under 16) are valid for 5 years.
+
+**Q: Can I travel while my passport is being renewed?**
+A: No, your current passport is retained during processing. Plan accordingly.
+
+**Q: What if my name has changed since my last passport?**
+A: Submit legal documentation of name change (marriage certificate, court order) along with your renewal application. Additional processing time may apply.
+
+**Q: Are there any travel restrictions with a nearly expired passport?**
+A: Many countries require at least 6 months validity beyond your travel dates. Renew early.
+
+## Contact Information
+
+**General Inquiries:** info@gov.services
+**Technical Support:** support@gov.services  
+**Emergency After-Hours:** 1-800-EMERGENCY (for citizens abroad)
+
+**Website:** www.gov.services/passport
+**Mobile App:** Download "GovServices" from App Store or Google Play
+
+---
+Last Updated: January 2024
+Document Version: 2.1

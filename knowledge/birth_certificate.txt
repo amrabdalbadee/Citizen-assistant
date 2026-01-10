@@ -1,0 +1,106 @@
+# Birth Certificate Services - Government Guide
+
+## Overview
+The Birth Registration Office provides services for obtaining birth certificates, which are essential documents for proving identity, age, and citizenship.
+
+## Types of Birth Certificate Services
+
+### 1. Standard Birth Certificate Request
+For obtaining a certified copy of an existing birth record.
+
+**Required Documents:**
+- Valid government-issued ID
+- Completed Application Form BC-001
+- Relationship proof (if requesting for a family member)
+
+**Processing Time:** 5-7 business days
+**Fee:** $25 per certified copy
+
+### 2. First-Time Birth Registration (Late Registration)
+For registering births that were not registered at the time of birth.
+
+**Required Documents:**
+- Hospital birth record or baptismal certificate
+- Affidavit of two witnesses who were present at birth
+- National ID of parents
+- Completed Form BC-002
+- DNA test results (if birth occurred more than 10 years ago)
+
+**Processing Time:** 30-45 business days (requires verification)
+**Fee:** $75 plus $15 late registration penalty
+
+### 3. Birth Certificate Correction
+For correcting errors in an existing birth certificate.
+
+**Types of Corrections:**
+- **Clerical Errors:** Spelling mistakes, typographical errors
+  - Fee: $30 | Processing: 10 business days
+- **Substantial Changes:** Name changes, date corrections, parent information
+  - Fee: $100 | Processing: 30-60 business days (court order may be required)
+
+**Required Documents:**
+- Original birth certificate
+- Supporting documents proving correct information
+- Completed Form BC-003
+- Court order (for substantial changes)
+
+## Application Process
+
+### Step 1: Determine Service Type
+Identify which service you need based on your requirements.
+
+### Step 2: Gather Documents
+Collect all necessary documents. All documents must be originals or certified copies.
+
+### Step 3: Submit Application
+**Online:** www.gov.services/birth-certificate
+**In-Person:** Any Regional Civil Registry Office
+**By Mail:** Civil Registry, PO Box 1000, Capital City
+
+### Step 4: Pay Fees
+Accepted payment methods:
+- Credit/Debit cards
+- Bank transfer
+- Cash (in-person only)
+- Mobile payment (GovPay app)
+
+### Step 5: Receive Certificate
+- Pick up from office (bring receipt and ID)
+- Home delivery available ($10 additional fee)
+- Digital copy available via GovServices portal
+
+## Special Circumstances
+
+### Birth Abroad
+Citizens born abroad to national parents can register their birth.
+
+**Additional Requirements:**
+- Consular Report of Birth Abroad
+- Parents' passports and proof of citizenship
+- Foreign birth certificate (translated and apostilled)
+- Fee: $50
+
+### Adoption Birth Certificates
+Adopted children receive new birth certificates listing adoptive parents.
+
+**Requirements:**
+- Final adoption decree
+- Original birth certificate (sealed)
+- Completed Form BC-004
+- Processing: 15-20 business days
+- Fee: $40
+
+## Office Locations
+
+**Main Registry Office:**
+Address: 200 Civil Center Drive, Capital City
+Hours: Monday-Friday 8:00 AM - 5:00 PM
+Phone: 1-800-REGISTRY
+
+**Online Portal:**
+www.gov.services/birth-certificate
+Available 24/7 for applications and tracking
+
+## Contact
+Email: birthcertificate@gov.services
+Phone: 1-800-REGISTRY (1-800-734-4787)
